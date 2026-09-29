@@ -1,0 +1,112 @@
+body {
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: url("/background.png");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h4 {
+    color:black;
+}
+
+#titulo {
+    color:rgb(173, 212, 219);
+}
+
+#titulogamer {
+    font-size: 50px;
+    align-items: center;
+    text-shadow: rgba(0, 0, 0, 0.466) 4px 3px 0px;
+    -webkit-text-stroke: 0.5px rgb(44, 122, 138);
+}
+
+#questao {
+    color:rgb(173, 212, 219);
+    font-size: 35px;
+    align-items: center;
+    text-shadow: rgba(0, 0, 0, 0.466) 4px 3px 0px;
+    -webkit-text-stroke: 0.5px rgb(44, 122, 138);
+}
+
+#questao2 {
+    color:rgb(173, 212, 219);
+    position:relative;
+    font-size: 25px;
+    text-shadow: rgba(0, 0, 0, 0.466) 4px 3px 0px;
+    -webkit-text-stroke: 0.5px rgb(44, 122, 138);
+}
+
+#questao3 {
+    color:rgb(173, 212, 219);
+    position:relative;
+    font-size: 25px;
+    text-shadow: rgba(0, 0, 0, 0.466) 4px 3px 0px;
+    -webkit-text-stroke: 0.5px rgb(44, 122, 138);
+}
+
+#pontos {
+    color:rgb(173, 212, 219);
+    position:relative;
+    font-size: 25px;
+    text-shadow: rgba(0, 0, 0, 0.466) 4px 3px 0px;
+    -webkit-text-stroke: 0.5px rgb(44, 122, 138);
+}
+
+.input:focus {
+  outline: 3px solid transparent;
+}
+
+label {
+    color:rgb(173, 212, 219);
+    font-size: 25px;
+    align-items: center;
+    margin-block: 10px 20px;
+    -webkit-text-stroke: 0.5px black;
+}
+
+#peidarebom {
+    color:rgb(173, 212, 219);
+    font-size: 25px;
+    align-items: center;
+    margin-block: 10px 20px;
+    -webkit-text-stroke: 0.5px black;
+}
+
+#ok {
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgba(107, 72, 139, 0.397);
+}
+
+#opção {
+    font-size: 35px;
+    color:rgb(244, 253, 255);
+}
+
+#legenda {
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+#legenda2 {
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+#legenda2 {
+    width: 430px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+
+input[type="submit"] {
+    background-color: linear-gradient(rgb(60, 4, 124), rgb(44, 122, 138));
+}
+
+#assustado {
+    font-size: 25px;
+}
